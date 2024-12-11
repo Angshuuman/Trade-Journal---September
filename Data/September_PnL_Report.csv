@@ -1,0 +1,14 @@
+Date,Session,Pair,Type,Risk (%),PnL (RR)
+03/09/24,London,EUR/USD,Sell,0.2,+3RR
+04/09/24,London,EUR/USD,Sell,0.2,+2RR
+06/09/24,Asia,EUR/USD,Sell,0.3,+3RR
+08/09/24,Asia,EUR/USD,Buy,0.3,-1RR
+09/09/24,London,EUR/USD,Buy,0.2,-1RR
+11/09/24,NY,EUR/USD,Buy,0.1,0RR
+13/09/24,London,EUR/USD,Buy,0.1,-2RR
+17/09/24,Asia,EUR/USD,Buy,0.3,0RR
+19/09/24,NY,EUR/USD,Buy,0.12,+1RR
+24/09/24,Asia,EUR/USD,Buy,0.46,+2RR
+25/09/24,London,EUR/USD,Sell,0.85,+1RR
+26/09/24,NY,EUR/USD,Buy,0.8,+1RR
+27/09/24,London,EUR/USD,Sell,0.5,+3RR
